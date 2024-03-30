@@ -6,7 +6,7 @@
 
 <ol>
         <li><strong>Clone the repository:</strong><br>
-            <code>git clone https://github.com/your-username/amazon-clone.git</code></li>
+            <code>git clone https://github.com/tj-mas04/AmazonClone.git</code></li>
         <li><strong>Navigate to the project directory:</strong><br>
             <code>cd amazon-clone</code></li>
         <li><strong>Install dependencies:</strong><br>
